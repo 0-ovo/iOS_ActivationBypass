@@ -6,10 +6,10 @@
   - iPad Mini 3 (As of 01/13/2025 - Thanks to [adamk324](<https://github.com/adamk324> "adamk324"))
   - iPad Mini 2 (As of 02/26/2025 - Thanks to [ManiProjs](<https://github.com/ManiProjs> "ManiProjs"))
   - iPad Air (As of 04/07/2025) - Thanks to [VSjnk](<https://github.com/VSjnk> "VSjnk"))
-  - iPhone 5s (As of 04/07/2025) - Thanks to [daodov](<https://github.com/daodov> "daodov"))
-  - iPhone 6 (As of 04/07/2025) - Thanks to [lamduck2005](<https://github.com/lamduck2005> "lamduck2005"))
-  - iPhone 6 Plus (A1522) (As of 04/07/2025) - Thanks to [R3p1ns](<https://github.com/R3p1ns> "R3p1ns"))
-  - iPad Air Gen 1 (A1475) - Thanks to [elvisef](<https://github.com/elvisef> "elvisef"))
+  - iPhone 5s (As of 04/13/2025) - Thanks to [daodov](<https://github.com/daodov> "daodov"))
+  - iPhone 6 (As of 09/08/2025) - Thanks to [lamduck2005](<https://github.com/lamduck2005> "lamduck2005"))
+  - iPhone 6 Plus (A1522) (As of 07/29/2025) - Thanks to [R3p1ns](<https://github.com/R3p1ns> "R3p1ns"))
+  - iPad Air Gen 1 (A1475) (As of 09/27/2025) - Thanks to [elvisef](<https://github.com/elvisef> "elvisef"))
 
 ### Jailbreak the iDevice ###
 - Jailbreak with Checkra1n 0.10.2 
